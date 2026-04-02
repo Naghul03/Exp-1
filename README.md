@@ -3,7 +3,7 @@
 # AIM:
 To study the problem statement ,SRS document and draw the UML diagram of library management system system
 # SRS (Procedure):
-A Library Management System UML Diagram represents the design of how different components of a library interact. It typically includes several types of UML diagrams. Here's a simple explanation of each, along with the most important one: the Class Diagram.
+A ATM & banking System UML Diagram represents the design of how different components of a library interact. It typically includes several types of UML diagrams. Here's a simple explanation of each, along with the most important one: the Class Diagram.
 Use Case Diagram
 Shows actors and system functionalities.
 Actors: Librarian, Member
